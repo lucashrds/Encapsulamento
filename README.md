@@ -1,5 +1,5 @@
-Projeto Conta Bancária em Java
-Descrição
+# Projeto Conta Bancária em Java
+## 📝 Descrição
 Este projeto é um sistema simples de conta bancária desenvolvido em Java, utilizando os princípios de orientação a objetos e encapsulamento. O programa foi criado na IDE Eclipse e demonstra as operações básicas de uma conta bancária.
 
 Funcionalidades Principais
@@ -11,7 +11,7 @@ Realização de saques (com taxa de R$5.00 por operação)
 
 Consulta de saldo e informações da conta
 
-Tecnologias Utilizadas
+🛠️Tecnologias Utilizadas
 Java (versão 8 ou superior)
 
 IDE Eclipse
@@ -20,7 +20,7 @@ Princípios de Orientação a Objetos
 
 Encapsulamento
 
-Conceitos de Programação Orientada a Objetos Implementados
+🧠Conceitos de Programação Orientada a Objetos Implementados
 Encapsulamento: Todos os atributos da classe Conta são privados e acessados apenas através de métodos públicos (getters e setters)
 
 Construtores: A classe Conta possui dois construtores para diferentes formas de inicialização
